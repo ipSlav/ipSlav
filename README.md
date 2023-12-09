@@ -1,5 +1,5 @@
-### Hi ipSlav 👋
-
+### About ipSlav 👋
+#
 My name is Petar Jr. Pranic and I am a red team guy currently working as a Red Team Manager in [Shielder](https://www.shielder.com/) leading a small team dedicated to Offensive Operations activities.
 Throughout my experience in the offensive security field, I have participated in and managed more than 100 engagements targeting mid and large enterprises spanning several industries.
 
